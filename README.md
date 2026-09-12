@@ -233,3 +233,6 @@ This repository serves as the official landing page for Copernic Agent Basic. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Copernic Agent Basic today!**
+
+---
+**Last updated:** 2026-09-12 08:55:18 UTC

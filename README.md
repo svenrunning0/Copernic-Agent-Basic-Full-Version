@@ -235,4 +235,4 @@ This repository serves as the official landing page for Copernic Agent Basic. Th
 **Get the most recent version of Copernic Agent Basic today!**
 
 ---
-**Last updated:** 2026-10-31 21:59:22 UTC
+**Last updated:** 2026-11-01 00:42:14 UTC
